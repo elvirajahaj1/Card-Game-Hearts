@@ -1,2 +1,2 @@
 # Card-Game-Hearts
-A Card Game called Hearts created using Java language without GUI. 
+In this project, I created a console-based Hearts Card game using Java.
